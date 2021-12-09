@@ -1,5 +1,3 @@
-# portfolio2_CCHS
-
 ## Physical activity and mental health in Canadian seniors: A cross-sectional study using the Canadian Community Health Survey
 
 ### SYNOPSIS
